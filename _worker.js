@@ -159,7 +159,7 @@ async function handleRootRequest(request, USERNAME, PASSWORD, enableAuth) {
             <div id="cacheContent" style="display: none;"></div>
           </form>
         </div>
-        <p class="project-link">电报频道 - <a href="https://t.me.mfbpn" target="_blank" rel="noopener noreferrer">0-RTT/telegraph</a></p>
+        <p class="project-link">电报频道 - <a href="https://t.me/mfbpn" target="_blank" rel="noopener noreferrer">苏木分享 𝙏𝙂@𝙈𝙁𝘽𝙋𝙉</a></p>
         <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js" type="application/javascript"></script>
         <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/5.2.7/js/fileinput.min.js" type="application/javascript"></script>
         <script src="https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap-fileinput/5.2.7/js/locales/zh.min.js" type="application/javascript"></script>
